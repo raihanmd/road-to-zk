@@ -1,0 +1,11 @@
+{
+  "babel": false,
+  "ts": {
+    "compilerOptions": {
+      "module": "ESNext",
+      "target": "ES2022",
+      "moduleResolution": "Bundler"
+    }
+  },
+  "esm": true
+}
